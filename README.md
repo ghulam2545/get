@@ -1,0 +1,1 @@
+- json-parser: parse JsonNode in spring boot to get all key and values
