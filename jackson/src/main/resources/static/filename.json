@@ -1,0 +1,19 @@
+{
+  "username": "Jamal Hashim",
+  "email": "jamal@gmail.com",
+  "phone": {
+    "personal": 1122334455,
+    "professional": 102030405
+  },
+  "cars": [
+    {
+      "name": "BMW",
+      "price": 1200
+    },
+    {
+      "name": "Bugati",
+      "price": 1300
+    }
+  ],
+  "active": false
+}
